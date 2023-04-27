@@ -78,7 +78,7 @@ public class Speed {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 		if(driver.getCurrentUrl()==homePage) {
 			
-			System.out.println("return to homepage!!!");
+			System.out.println("return to homepage!!!!!!");
 			
 		}
 		
