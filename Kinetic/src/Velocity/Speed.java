@@ -68,7 +68,7 @@ public class Speed {
 		destPlace.sendKeys("Siliguri");
 		clickCal.click();
 		clickCal.sendKeys("24-Apr-2023");
-		Thread.sleep(10000);
+		Thread.sleep(5000);
 		
 	//	System.out.println("date pick--"+ chooseCal.isDisplayed());
 	//	chooseCal.click();
